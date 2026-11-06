@@ -1,0 +1,16 @@
+realtime_start: string
+realtime_end: string
+observation_start: string
+observation_end: string
+units: string
+output_type: int
+file_type: string
+order_by: string
+sort_order: string
+count: int
+offset: int
+limit: int
+observations[].realtime_start: string
+observations[].realtime_end: string
+observations[].date: string
+observations[].value: string
